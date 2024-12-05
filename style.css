@@ -89,7 +89,7 @@
     }
 
     .calculator form div .equal {
-        width: calc(60% - 10px);
+        width: 70px;
         height: 60px;
     }
 }
